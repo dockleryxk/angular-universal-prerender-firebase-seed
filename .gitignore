@@ -4,6 +4,14 @@
 /dist
 /tmp
 /out-tsc
+functions/node_modules
+functions/dist-server
+functions/dist-browser
+functions/index.js
+functions/variables.js
+functions/test-server.js
+functions/providers/prerender.js
+functions/providers/send-emails.js
 
 # dependencies
 /node_modules
