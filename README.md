@@ -18,6 +18,8 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 Run `npm run server` for a dev server for Angular Universal.
 
+To force a server side render, add `?_escaped_fragment_=` to the end of the url.
+
 ## Code scaffolding
 
 Run `ng generate component component-name --module app.module` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
